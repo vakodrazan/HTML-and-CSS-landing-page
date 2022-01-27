@@ -1,6 +1,6 @@
 # Photograph
 
-In this project, I use **_HTML5_**, **_SASS_** and **_BEM_**. I use a little bit of **_vanilla JavaScript_** to make the image slider work. Since I work with HTML.
+In this project, I use **_HTML5_**, **_SASS_** and **_BEM_**. I use a little bit of **_vanilla JavaScript_** to make the image slider work.
 
 **Styles**:
 
