@@ -15,6 +15,6 @@ In this project, I use **_HTML5_**, **_SASS_** and **_BEM_**. I use a little bit
 
 ## Design and UI
 
-- ![photograph](https://iili.io/KoEJbn.png)
+![photograph](https://iili.io/KoEJbn.png)
 
-- online at [figma.com/Laaqiq-1-Portfolio-detail-Responsive](https://www.figma.com/file/VgF87mULloYb7HZ1EMCRzU/Laaqiq-1-Portfolio-detail-Responsive?node-id=0%3A1)
+Design document: [figma.com](https://www.figma.com/file/VgF87mULloYb7HZ1EMCRzU/Laaqiq-1-Portfolio-detail-Responsive?node-id=0%3A1)
