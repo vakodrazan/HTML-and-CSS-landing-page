@@ -13,7 +13,7 @@ In this project, I use **_HTML5_**, **_SASS_** and **_BEM_**. I use a little bit
 - Run `npm install`
 - I run the `npm run start` or `npm run scss:watch` when developing this project.
 
-### Design and UI
+## Design and UI
 
 - ![photograph](https://iili.io/KoEJbn.png)
 
