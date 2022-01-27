@@ -2,12 +2,12 @@
 
 In this project, I use **_HTML5_**, **_SASS_** and **_BEM_**. I use a little bit of **_vanilla JavaScript_** to make the image slider work.
 
-**Styles**:
+## Features
 
-- I work with Mobile-First, and Responsive.
-- Use SASS then convert it into CSS
+- I made the website mobile-first and responsive.
+- Used SASS then converted it into CSS.
 
-## Installation instruction
+## Installation instructions
 
 - Fork then clone this repository
 - Run `npm install`
